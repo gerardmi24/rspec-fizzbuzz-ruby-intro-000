@@ -5,4 +5,3 @@ def fizzbuzz
     "Fizz"
   end
 end
-
